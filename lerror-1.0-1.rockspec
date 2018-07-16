@@ -1,5 +1,5 @@
 package = "lerror"
-version = "1.0-1"
+version = "1.0-2"
 
 source = {
   url = "git://github.com/daelvn/lerror",
@@ -20,7 +20,7 @@ description = {
 
 dependencies = {
   "lua >= 5.1",
-  "lobject"
+  "lobject >= 1.1"
 }
 
 build = {
