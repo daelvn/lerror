@@ -1,4 +1,4 @@
-package = "lobject"
+package = "lerror"
 version = "1.0-1"
 
 source = {
