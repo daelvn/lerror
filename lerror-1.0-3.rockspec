@@ -1,5 +1,5 @@
 package = "lerror"
-version = "1.0-2"
+version = "1.0-3"
 
 source = {
   url = "git://github.com/daelvn/lerror",
@@ -15,7 +15,6 @@ description = {
     LuaException to be able to use lerror in every case.
   ]],
   homepage = "https://lerror.daelvn.ga/",
-  license  = "MIT/X11"
 }
 
 dependencies = {

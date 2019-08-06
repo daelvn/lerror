@@ -6,4 +6,4 @@ $ sudo luarocks install lerror
 ```
 ## [Wiki](docs/wiki/README.md)
 ## License
-This project is licensed under the MIT license. (c) 2018
+This project is released to the public domain.
